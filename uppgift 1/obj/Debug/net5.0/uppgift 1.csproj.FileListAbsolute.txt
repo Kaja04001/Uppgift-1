@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\uppgift 1\bin\Debug\net5.0\uppgift 1.exe
+C:\Users\Admin\Documents\uppgift 1\bin\Debug\net5.0\uppgift 1.deps.json
+C:\Users\Admin\Documents\uppgift 1\bin\Debug\net5.0\uppgift 1.runtimeconfig.json
+C:\Users\Admin\Documents\uppgift 1\bin\Debug\net5.0\uppgift 1.runtimeconfig.dev.json
+C:\Users\Admin\Documents\uppgift 1\bin\Debug\net5.0\uppgift 1.dll
+C:\Users\Admin\Documents\uppgift 1\bin\Debug\net5.0\ref\uppgift 1.dll
+C:\Users\Admin\Documents\uppgift 1\bin\Debug\net5.0\uppgift 1.pdb
+C:\Users\Admin\Documents\uppgift 1\obj\Debug\net5.0\uppgift 1.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\uppgift 1\obj\Debug\net5.0\uppgift 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\uppgift 1\obj\Debug\net5.0\uppgift 1.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\uppgift 1\obj\Debug\net5.0\uppgift 1.AssemblyInfo.cs
+C:\Users\Admin\Documents\uppgift 1\obj\Debug\net5.0\uppgift 1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\uppgift 1\obj\Debug\net5.0\uppgift 1.dll
+C:\Users\Admin\Documents\uppgift 1\obj\Debug\net5.0\ref\uppgift 1.dll
+C:\Users\Admin\Documents\uppgift 1\obj\Debug\net5.0\uppgift 1.pdb
+C:\Users\Admin\Documents\uppgift 1\obj\Debug\net5.0\uppgift 1.genruntimeconfig.cache
